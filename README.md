@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋 I'm Divya Trivedi
 
-<!--
-**divya2022bite056-creator/divya2022bite056-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate WordPress Engineer Aspirant  
+Beginner in PHP, WordPress & Open Source
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- PHP (Basics)
+- WordPress (Learning Plugins & Themes)
+- REST APIs (Basics)
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- WordPress Coding Standards
+- Plugin Development
+- Open Source Contribution
+
+### 🎯 Goal
+To become a strong WordPress developer  
+and get selected at rtCamp.
+
